@@ -50,7 +50,7 @@ The five inputs were started with GLIMPSEv1.01-Reference and GLIMPSEv1.01-DeepDe
 
 ## Scenario Design
 
-This repository contains data from five scenarios. Two scenarios were initially considered for the decomposition analysis of CO<sub>2</sub> emission. Three scenarios were added later when GLIMPSE version 1.2 became available. At the time this repository was formed, GLIMPSE version 1.2 was the latest version.
+This repository contains data from five scenarios. Two scenarios were initially considered for the decomposition analysis of CO<sub>2</sub> emission in 2024. Three scenarios were added later when GLIMPSE version 1.2 became available in April 2025. At the time this repository was formed, GLIMPSE version 1.2 was the latest version.
 
 (1) **Reference scenario (GLIMPSE v1.01-Reference)** is based on the GCAM-USA 7.0 reference scenario where there is business as usual,
 
