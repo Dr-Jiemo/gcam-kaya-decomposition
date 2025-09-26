@@ -208,7 +208,7 @@ create_state_year_specific_sectoral_plot <- function(state_year_sectoral_data,
       scale_color_manual(values = setNames("darkgray", paste0(ghg, " in ", year))) +
       coord_flip() +
       labs(
-        title = paste("Top 15 Categories for", ghg, "Reduction, Policy Scenario"),
+        title = paste("Top 15 Categories for", ghg, "Reduction, Reference Scenario"),
         x = "State:Sector",
         y = "Value",
         fill = "Variables",
